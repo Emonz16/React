@@ -18,10 +18,10 @@ function App() {
       <button onClick={handleClick}>Click Here</button>
       
       
-      <Call></Call>
+      <Call/>
 
     </>
   )
 }
 
-export default App
+export default App;

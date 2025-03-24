@@ -1,5 +1,5 @@
 import { useState } from 'react';
- export default function Call () {
+  function Call () {
 
      const [count,setcount]= useState(0);
       
@@ -36,3 +36,5 @@ import { useState } from 'react';
      );
 
 };
+export default Call;
+
